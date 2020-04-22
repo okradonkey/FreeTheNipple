@@ -10,23 +10,18 @@
 Uncovered torsos no longer cause women to feel naked and embarrassed.
 (Uncovered legs still cause both men and women to feel naked.)
 
-Compatibility:
-I don't know of any incompatibilities, but if you find one, let me know
-and I'll fix it or mark it.
+### Compatibility
+- Compatible with RimWorld **v1.1** and the **Royalty** DLC.
+- No known incompatibilities.
 
-Note:
-This is my first Harmony mod, so please feel free to make technical 
-suggestions or otherwise critique the code.
-
-This mod:
+### Notes
 - Should be safe to add or remove at any time from your save.
 - Can be placed anywhere in the mod list after Harmony.
-- Doesn't add or remove anything - it just alters the
-  PsychologicallyNude method to evaluate females the same as males.
+- Doesn't add or remove anything - it just alters the PsychologicallyNude method to evaluate females the same as males.
+- This is my first Harmony mod, so please feel free to make technical suggestions or otherwise critique the code.
 
-Inspired by u/warm-rimmer.
-
-Mod version 0.1.0.1
+### Inspired by
+u/warm-rimmer
     </description>
     <url>https://github.com/okradonkey/FreeTheNipple</url>
 	<modDependencies>
