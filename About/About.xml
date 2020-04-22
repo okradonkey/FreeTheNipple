@@ -25,7 +25,10 @@ This mod:
   PsychologicallyNude method to evaluate females the same as males.
 
 Inspired by u/warm-rimmer.
+
+Mod version 0.1.0.1
     </description>
+    <url>https://github.com/okradonkey/FreeTheNipple</url>
 	<modDependencies>
 		<li>
 			<packageId>brrainz.harmony</packageId>
@@ -34,9 +37,4 @@ Inspired by u/warm-rimmer.
 			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
 		</li>
 	</modDependencies>
-	<loadAfter>
-		<li>Ludeon.RimWorld</li>
-		<li>Ludeon.RimWorld.Royalty</li>
-		<li>brrainz.harmony</li>
-	</loadAfter>
 </ModMetaData>

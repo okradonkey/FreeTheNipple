@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
     <identifier>OkraDonkey.FreeTheNipple</identifier>
-    <version>0.1.1.1</version>
+    <version>0.1.0.1</version>
+    <dependencies>
+        <li>Harmony</li>
+    </dependencies>
     <showCrossPromotions>false</showCrossPromotions>
+    <manifestUri>https://github.com/okradonkey/FreeTheNipple/raw/master/About/Manifest.xml</manifestUri>
+    <downloadUri>https://github.com/okradonkey/FreeTheNipple/releases/latest</downloadUri>
 </Manifest>
