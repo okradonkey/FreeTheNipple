@@ -1,7 +1,7 @@
 REM ################ Mod build and install script (c) Andreas Pardeike 2020 ################
 REM
 REM Call this script from Visual Studio's Build Events post-build event command line box:
-REM "$(ProjectDir)Install.bat" $(ConfigurationName) "$(ProjectDir)" "$(ProjectName)" "About Assemblies Languages Textures v1.1" "LoadFolders.xml"
+REM "$(ProjectDir)Install.bat" $(ConfigurationName) "$(ProjectDir)" "$(ProjectName)" "About Assemblies Languages Textures v1.1" "LoadFolders.xml README.md LICENSE"
 REM
 REM The project structure should look like this:
 REM
