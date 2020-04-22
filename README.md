@@ -1,7 +1,7 @@
 # Free The Nipple
 A RimWorld mod:
 
-Uncovered torsos no longer cause women to feel naked and embarrassed.
+Uncovered torsos no longer cause women to feel naked and embarrassed.  
 (Uncovered legs still cause both men and women to feel naked.)
 
 ### Compatibility
