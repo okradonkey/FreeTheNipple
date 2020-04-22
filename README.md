@@ -14,11 +14,11 @@ Uncovered torsos no longer cause women to feel naked and embarrassed.
 - Doesn't add or remove anything - it just alters the PsychologicallyNude method to evaluate females the same as males.
 - [Release notes](https://github.com/okradonkey/FreeTheNipple/releases/)
 
-### Inspired by
-u/warm-rimmer
-
 ### How to use
 No special instructions.
+
+### Inspired by
+u/warm-rimmer
 
 # Installation
 Add _Free The Nipple_ anywhere in your load order.
