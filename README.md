@@ -5,7 +5,7 @@ Uncovered torsos no longer cause women to feel naked and embarrassed.
 (Uncovered legs still cause both men and women to feel naked.)
 
 ### Compatibility
-- Compatible with RimWorld **v1.1** and the **Royalty** DLC.
+- Compatible with RimWorld **v1.1**, **v1.2**, and the **Royalty** DLC.
 - No known incompatibilities.
 
 ### Notes
